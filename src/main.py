@@ -1,4 +1,4 @@
-from src.visual.baseWindow import BaseWindow
+from src.visual.base_window import BaseWindow
 
 
 if __name__ == '__main__':

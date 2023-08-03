@@ -1,4 +1,4 @@
-from src.visual.coloursImports import *
+from src.visual.colours_imports import *
 
 
 class TextBox:

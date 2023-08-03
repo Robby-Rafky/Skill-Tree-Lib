@@ -1,6 +1,6 @@
-from src.visual.coloursImports import *
+from src.visual.colours_imports import *
 from src.visual.classes.button import Button
-from src.visual.bottom_menu.bottomMenu import BottomMenu
+from src.visual.bottom_menu.bottom_menu import BottomMenu
 
 
 class BaseWindow:

@@ -1,4 +1,4 @@
-from src.visual.classes.textBox import *
+from src.visual.classes.text_box import *
 
 
 class Button(TextBox):
