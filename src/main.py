@@ -1,4 +1,8 @@
+from src.visual.baseWindow import BaseWindow
+
 
 if __name__ == '__main__':
-    pass
+    a = BaseWindow()
 
+    while a.running:
+        a.window_loop()
