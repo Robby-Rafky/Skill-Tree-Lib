@@ -1,0 +1,24 @@
+import pygame
+
+# General Colours
+
+BLACK = (0, 0, 0)
+BLUE = (4, 18, 105)
+L_BLUE = (125, 173, 250)
+GREY = (105, 105, 105)
+L_GREY = (160, 160, 160)
+D_GREY = (87, 87, 87)
+GREEN = (40, 87, 23)
+LIME_GREEN = (4, 212, 84)
+BROWN = (51, 30, 4)
+WHITE = (255, 255, 255)
+RED = (117, 13, 13)
+L_ORANGE = (235, 169, 94)
+
+# Menu Colours
+
+MENU_GREY = (194, 194, 194)
+SKILL_ALLOCATED = (255, 236, 5)
+SKILL_HOVER = (237, 231, 121)
+SKILL_AVAILABLE = (122, 118, 50)
+SKILL_UNAVAILABLE = (150, 150, 150)
