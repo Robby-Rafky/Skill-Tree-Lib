@@ -64,7 +64,7 @@ class TextBox:
 
         pygame.draw.rect(self.surface, BLACK, (0, 0, self.size[0], self.size[1]), 2)
 
-    def update_textbox_multiline(self, text, colour=WHITE):
+    def update_textbox_multiline(self, text: list, colour=WHITE):
         """
         Updates the multiline content and colour of the text box.
 
