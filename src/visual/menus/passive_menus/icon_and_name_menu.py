@@ -1,4 +1,5 @@
 from src.visual.classes.button import Button
+from src.visual.assets.asset_loader import asset_icons
 # optional
 
 class IconNameMenu:
